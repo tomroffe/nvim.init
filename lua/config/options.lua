@@ -7,6 +7,9 @@ vim.opt.guicursor = ""
 vim.g.python3_host_prog = "/Users/tom/.pyenv/versions/neovim/bin/python"
 vim.g.loaded_perl_provider = 0
 
+vim.opt.spell = true
+vim.opt.spelllang = "en_gb"
+
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
