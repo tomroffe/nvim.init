@@ -1,4 +1,1 @@
 # nvim.init
-
-
-
