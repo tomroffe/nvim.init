@@ -4,7 +4,7 @@
 
 vim.opt.guicursor = ""
 
-vim.g.python3_host_prog = "/Users/tom/.pyenv/versions/neovim/bin/python"
+vim.g.python3_host_prog = "~/.pyenv/versions/neovim/bin/python"
 vim.g.loaded_perl_provider = 0
 
 vim.opt.spell = true
