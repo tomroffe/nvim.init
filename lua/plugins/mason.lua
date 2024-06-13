@@ -44,6 +44,7 @@ return {
 				"terraform-ls",
 				"trivy",
 				"yaml-language-server",
+				"helm-ls",
 			},
 		},
 	},
